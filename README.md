@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Amir
 - 👀 I’m interested in Computers and automating stuff
+- 🐍 Python is more than a language, it's a life style
 - 🌱 I’m currently learning C++ micro optimization
 
 <!---
