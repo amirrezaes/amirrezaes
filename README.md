@@ -19,7 +19,7 @@
 - [Alter](https://github.com/amirrezaes/Alter) - Fast Download-Manager with Python
 - [Crunch.py](https://github.com/amirrezaes/Crunch.py) - Python implementation of Crunch Password List Generator
 - [Python-HTTP-server](https://github.com/amirrezaes/Python-HTTP-server) - HTTP server with concurrent request support
-- [Wallpaper-Manager](https://github.com/amirrezaes/Wallpaper-Manager) - Dynamic wallpaper changer based on weather and time
+- [Air-Quality-Analyzer-Module](https://github.com/amirrezaes/AirQuality) - A non-blocking air quality sampler using Waqi API
 - [PMan](https://github.com/amirrezaes/PMan) - UNIX Process Manager written in C
 
 ## 🌟 Interests
