@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science degree from University of Victoria
-- 💻 Junior Software Developer with a passion for automation
+- 💻 Intermediate Software Developer with a passion for automation
 - 🐍 Python enthusiast who believes "Python is more than a language, it's a lifestyle"
 - 🔧 Currently diving deep into C++ micro-optimization
 - 🌟 Love turning complex problems into elegant solutions
