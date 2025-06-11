@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Amir
 
 ## 🚀 About Me
-- 🎓 Computer Science student at University of Victoria
+- 🎓 Computer Science degree from University of Victoria
 - 💻 Junior Software Developer with a passion for automation
 - 🐍 Python enthusiast who believes "Python is more than a language, it's a lifestyle"
 - 🔧 Currently diving deep into C++ micro-optimization
